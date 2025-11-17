@@ -1,0 +1,3 @@
+# Ce fichier permet de garder le dossier data/ dans le dépôt Git
+# Les fichiers de données sont ignorés via .gitignore (stockés localement et sur GCS)
+
