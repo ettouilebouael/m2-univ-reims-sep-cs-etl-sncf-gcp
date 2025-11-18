@@ -3,3 +3,6 @@ google-cloud-bigquery
 requests
 python-dotenv
 pandas
+pyarrow
+fastparquet
+db-dtypes-
