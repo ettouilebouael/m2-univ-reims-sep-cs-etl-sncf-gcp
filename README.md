@@ -112,8 +112,8 @@ BUCKET_NAME=your-gcs-bucket-name
 - **Google Cloud Python SDK** : Interaction avec les services GCP
 - **Google Cloud Storage (GCS)** : Stockage des données brutes
 - **BigQuery** : Data warehouse pour l'analyse
-- **Python** : Langage de programmation
-- **Pandas** : Manipulation de données (inspection locale uniquement)
+- **Python**
+- **Pandas**
 
 
 ## Licence
