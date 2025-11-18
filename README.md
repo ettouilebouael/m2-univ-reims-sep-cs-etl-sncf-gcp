@@ -118,8 +118,8 @@ BUCKET_NAME=your-gcs-bucket-name
 
 ## Licence
 
-Ce projet est destiné à un usage pédagogique dans le cadre du Master 2 de l'Université de Reims.
+Ce projet est destiné à un usage pédagogique dans le cadre du M2 SEP et M2 CS de l'Université de Reims Champagne-Ardenne.
 
 ## Auteurs
 
-Projet réalisé dans le cadre du Master 2 - Université de Reims Champagne-Ardenne.
+Projet réalisé dans le cadre des M2 SEP et M2 CS de l'université de Reims Champagne-Ardenne.
